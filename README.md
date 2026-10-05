@@ -177,10 +177,3 @@ https://drive.google.com/drive/folders/1JXbon0Xske7Y9A3uUw5M8xwEGb3nxxZ-?usp=sha
 
 After downloading, place the files inside the `data/` folder before running the SQL pipeline.
 
----
-
-## 👤 Author
-
-Y. Rithvesh  
-SQL | Python | Data Analytics | Retention Modeling  
-Date: 20-02-2026
